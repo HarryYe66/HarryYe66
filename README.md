@@ -1,7 +1,7 @@
 ## Abstract
 
 <p>
-  <img src="https://stats-ts-cards.vercel.app/api?username=HarryYe66&show_icons=true&hide_border=true" alt="Harry's Github Stats" width="58%" />
+  <img src="https://stats-ts-cards.vercel.app/api//?username=HarryYe66&show_icons=true&hide_border=true" alt="Harry's Github Stats" width="58%" />
   <img src="https://stats-ts-cards.vercel.app/api/top-langs/?username=HarryYe66&layout=compact&hide_border=true&langs_count=10" alt="Harry's Top Langs" width="37%" /> 
 </p>
 
