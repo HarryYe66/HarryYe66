@@ -8,7 +8,7 @@
 <a href="https://github.com/HarryYe66/stats-cards">
 <p>
   <img src="https://stats.justsong.cn/api/leetcode/?username=HarryYe66&theme=light" alt="Harry's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=HarryYe66&theme=light" alt="Harry's Zhihu Stats" width="49%" /> 
+  <!-- <img src="https://stats.justsong.cn/api/zhihu/?username=HarryYe66&theme=light" alt="Harry's Zhihu Stats" width="49%" />  -->
 </p>
 </a>
 
