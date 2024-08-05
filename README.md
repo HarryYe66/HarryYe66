@@ -7,7 +7,7 @@
 
 <a href="https://github.com/HarryYe66/stats-ts-cards">
 <p>
-  <img src="https://stats-ts-cards.vercel.app/api/github?username=HarryYe66&theme=light" alt="Harry's LeetCode Stats" width="100%" />
+  <img src="https://stats-ts-cards.vercel.app/api/github?username=HarryYe66&theme=light" alt="Harry's LeetCode Stats" width="100%" height="50%" />
   <!-- <img src="https://stats.justsong.cn/api/zhihu/?username=HarryYe66&theme=light" alt="Harry's Zhihu Stats" width="49%" />  -->
 </p>
 </a>
