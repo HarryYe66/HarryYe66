@@ -792,7 +792,7 @@
 
     </g>
 
-    <!-- <g transform="translate(2700, 600)">
+    <g transform="translate(2700, 600)">
         <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none"
             viewBox="0 0 256 256">
             <rect width="256" height="256" fill="#242938" rx="60" />
@@ -813,7 +813,7 @@
     40.83V215.905C177.84 217.109 177.583 218.292 177.071 219.358C176.045 221.429 173.816 223.362
     168.47 222.553L168.844 222.968Z" />
         </svg>
-    </g> -->
+    </g>
 
     <g transform="translate(2700, 600)">
         <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none"
