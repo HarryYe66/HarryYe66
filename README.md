@@ -9,7 +9,7 @@
 
 ## 🔧 Technologies
 
-![Languages](https://skill-icon-ts.vercel.app/icons?i=react,electron,express,vue,vite,php,wordpress,html,htmx,js,JQuery,css,less,ts,nodejs,md)
+![Languages](https://skill-icon-ts.vercel.app/icons?i=react,electron,express,vue,vite,php,wordpress,html,htmx,js,threejs,JQuery,css,less,ts,nodejs,md)
 
 ![Tool](https://skill-icon-ts.vercel.app/icons?i=docker,mysql,redis,MongoDB,rabbitmq,ipfs,linux,nginx,sqlite,vercel,cloudflare,powershell)
 
