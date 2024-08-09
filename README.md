@@ -11,9 +11,9 @@
 
 ![Languages](https://skill-icon-ts.vercel.app/icons?i=react,electron,express,vue,vite,php,wordpress,html,htmx,js,JQuery,css,less,ts,nodejs,md)
 
-![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq,ipfs,docker,linux,nginx,sqlite,vercel,cloudflare,powershell)
+![Tool](https://skill-icon-ts.vercel.app/icons?i=docker,mysql,redis,MongoDB,rabbitmq,ipfs,linux,nginx,sqlite,vercel,cloudflare,powershell)
 
-![App](https://skill-icon-ts.vercel.app/icons?i=discord,github,x,instagram,telegram,gmail,github,ps,Sublime,vscode)
+![App](https://skill-icon-ts.vercel.app/icons?i=discord,x,instagram,telegram,gmail,github,ps,Sublime,vscode&t=dark)
 
 ![Web3](https://skill-icon-ts.vercel.app/icons?i=uniswap,pancakeswap,jup6,solana,polygon,bnb,ethereum)
 
