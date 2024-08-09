@@ -818,7 +818,7 @@
     <g transform="translate(3000, 600)">
         <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none"
             viewBox="0 0 256 256">
-            <rect width="256" height="256" fill="#242938" rx="60" />
+            <rect width="256" height="256" fill="#fef4ff" rx="60" />
             <g transform="translate(160, 148) translate(-128, -128)">
                 <path fill="#FF007A"
                     d="M66,44.1c-2.1-0.3-2.2-0.4-1.2-0.5c1.9-0.3,6.3,0.1,9.4,0.8c7.2,1.7,13.7,6.1,20.6,13.8l1.8,2.1l2.6-0.4
