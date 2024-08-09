@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYe66&layout=compact&hide_border=true&langs_count=10" alt="Harry's Top Langs" width="37%" /> 
 </p>
 
-![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
+![skills](https://skillicons.dev/icons?i=php,py,html,jquery,css,js,ts,nodejs,npm,yarn,cloudflare,md,discord,github,gmail,ps,powershell,postman,vercel,htmx,express,electron,vite,react,twitter,instagram,docker,ipfs,linux,nginx,mysql,mongodb,redis,sqlite,githubactions,heroku,,vscode)
 
 ## Top Projects
 
