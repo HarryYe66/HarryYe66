@@ -7,13 +7,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYe66&layout=compact&hide_border=true&langs_count=10" alt="Harry's Top Langs" width="37%" /> 
 </p>
 
-![skills](https://skillicons.dev/icons?i=php,py,html,jquery,css,js,ts,nodejs,npm,yarn,cloudflare,md,discord,github,gmail,ps,powershell,postman,vercel,htmx,express,electron,vite,react,twitter,instagram,docker,ipfs,linux,nginx,mysql,mongodb,redis,sqlite,githubactions,vscode&perline=12)
+## 🔧 Technologies
 
-![Languages](https://skill-icon-ts.vercel.app/icons?i=react,vue,vite,php,html,htmx,js,JQuery,css,less,ts,nodejs)
-![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq)
-![App](https://skill-icon-ts.vercel.app/icons?i=photoshop,Sublime,vscode)
+![Languages](https://skill-icon-ts.vercel.app/icons?i=react,electron,express,vue,vite,php,wordpress,html,htmx,js,JQuery,css,less,ts,nodejs,md)
 
-![skills](https://skill-icon-ts.vercel.app/icons?i=react,vue,php,html,js,css,ts,nodejs,npm,yarn,cloudflare,md,discord,github,gmail,ps,powershell,postman,vercel,htmx,express,electron,vite,react,twitter,instagram,docker,ipfs,linux,nginx,mysql,mongodb,redis,sqlite,githubactions,vscode&perline=12)
+![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq,ipfs,docker,linux,nginx,sqlite,vercel,cloudflare,powershell)
+
+![App](https://skill-icon-ts.vercel.app/icons?i=discord,github,x,instagram,telegram,gmail,github,ps,Sublime,vscode)
+
+![Web3](https://skill-icon-ts.vercel.app/icons?i=uniswap,pancakeswap,jup6,solana,polygon,bnb,ethereum)
 
 ## Top Projects
 
