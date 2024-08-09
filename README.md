@@ -13,7 +13,7 @@
 
 ![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq,ipfs,linux,nginx,sqlite,docker,powershell,vercel,cloudflare)
 
-![App](https://skill-icon-ts.vercel.app/icons?i=discord,x,instagram,telegram,gmail,github,ps,Sublime,vscode&t=dark)
+![App](https://skill-icon-ts.vercel.app/icons?i=discord,whatsapp,instagram,x,telegram,gmail,github,ps,Sublime,vscode)
 
 ![Web3](https://skill-icon-ts.vercel.app/icons?i=uniswap,pancakeswap,jup6,solana,polygon,bnb,ethereum)
 
