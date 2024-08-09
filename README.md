@@ -1,20 +1,19 @@
-## Abstract
+# Hi, I'm Harry(💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
-<!-- <a href="https://github.com/HarryYe66/stats-ts-cards">
-<p>
-  <img src="https://stats-ts-cards.vercel.app/api/github?username=HarryYe66&theme=light" alt="Harry's LeetCode Stats" width="100%" height="200px" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=HarryYe66&theme=light" alt="Harry's Zhihu Stats" width="49%" />
-</p>
-</a> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+Harry's+Github)](https://git.io/typing-svg)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=HarryYe66&show_icons=true&hide_border=true" alt="Harry's Github Stats" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYe66&layout=compact&hide_border=true&langs_count=10" alt="Harry's Top Langs" width="37%" /> 
 </p>
 
-![skills](https://github.com/HarryYe66/HarryYe66/blob/main/src/app.svg)
+![skills](https://skillicons.dev/icons?i=php,py,html,jquery,css,js,ts,nodejs,npm,yarn,cloudflare,md,discord,github,gmail,ps,powershell,postman,vercel,htmx,express,electron,vite,react,twitter,instagram,docker,ipfs,linux,nginx,mysql,mongodb,redis,sqlite,githubactions,vscode&perline=12)
 
-<!-- ![skills](https://skillicons.dev/icons?i=php,py,html,jquery,css,js,ts,nodejs,npm,yarn,cloudflare,md,discord,github,gmail,ps,powershell,postman,vercel,htmx,express,electron,vite,react,twitter,instagram,docker,ipfs,linux,nginx,mysql,mongodb,redis,sqlite,githubactions,vscode&perline=12) -->
+![Languages](https://skill-icon-ts.vercel.app/icons?i=react,vue,vite,php,html,htmx,js,JQuery,css,less,ts,nodejs)
+![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq)
+![App](https://skill-icon-ts.vercel.app/icons?i=photoshop,Sublime,vscode)
+
+![skills](https://skill-icon-ts.vercel.app/icons?i=react,vue,php,html,js,css,ts,nodejs,npm,yarn,cloudflare,md,discord,github,gmail,ps,powershell,postman,vercel,htmx,express,electron,vite,react,twitter,instagram,docker,ipfs,linux,nginx,mysql,mongodb,redis,sqlite,githubactions,vscode&perline=12)
 
 ## Top Projects
 
