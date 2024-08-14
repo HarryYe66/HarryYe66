@@ -30,3 +30,7 @@
 | [stats-ts-cards](https://github.com/HarryYe66/stats-ts-cards) | Show your LeetCode & GitHub stats in GitHub Profile. | ![2024-08-09 17:55:19](https://img.shields.io/badge/2024--08--01-21%3A29%3A19-brightgreen?style=flat-square) |
 
 _Last updated on: 2024-08-09 17:55:08_
+
+[![Whatsapp](https://img.shields.io/badge/-y8h666-green?style=flat&logo=Wechat&logoColor=white)](./img/Whatsapp.JPG)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/y8h666)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Twitter&logoColor=white)](https://t.me/dexcc_cc)
