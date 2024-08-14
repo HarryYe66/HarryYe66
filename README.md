@@ -34,3 +34,4 @@ _Last updated on: 2024-08-09 17:55:08_
 [![Whatsapp](https://img.shields.io/badge/-y8h667-green?style=flat&logo=Whatsapp&logoColor=white)](./img/Whatsapp.JPG)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=X&logoColor=white)](https://x.com/y8h666)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dexcc_cc)
+[![Gmail](https://img.shields.io/badge/-y8h666@gmail.com-blue?style=flat&logo=Gmail&logoColor=white)]
