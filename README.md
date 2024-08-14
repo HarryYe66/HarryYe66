@@ -11,7 +11,7 @@
 
 ![Languages](https://skill-icon-ts.vercel.app/icons?i=react,electron,express,vue,vite,php,wordpress,html,htmx,js,threejs,JQuery,less,ts,nodejs,md)
 
-![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq,ipfs,linux,nginx,sqlite,docker,powershell,vercel,cloudflare)
+![Tool](https://skill-icon-ts.vercel.app/icons?i=mysql,redis,MongoDB,rabbitmq,ipfs,linux,nginx,sqlite,docker,vercel,cloudflare)
 
 ![App](https://skill-icon-ts.vercel.app/icons?i=x,whatsapp,discord,instagram,telegram,gmail,github,Sublime,vscode)
 
