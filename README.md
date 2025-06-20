@@ -31,8 +31,8 @@
 
 _Last updated on: 2024-08-09 17:55:08_ -->
 
-[![Whatsapp](https://img.shields.io/badge/-y8h667-green?style=flat&logo=Whatsapp&logoColor=white)](./img/Whatsapp.JPG)
+[![Whatsapp](https://img.shields.io/badge/-85262272709-green?style=flat&logo=Whatsapp&logoColor=white)](./img/Whatsapp.jpeg)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=X&logoColor=white)](https://x.com/y8h666)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dexcc_vip)
 ![Gmail](https://img.shields.io/badge/-y8h666@gmail.com-black?style=flat&logo=Gmail&logoColor=red)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/y8h667/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&logoColor=purple)](https://www.instagram.com/y8h667/)
